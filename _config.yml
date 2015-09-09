@@ -4,10 +4,9 @@ title:            fusion94.org
 locale:           en_US
 url:
 
-
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink: "/blog/:year/:month/:day/:title"
 markdown:    kramdown
 highlighter: pygments
 sass:
