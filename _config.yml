@@ -72,7 +72,7 @@ disqus: "fusion94org"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: pygments
-permalink: /:year-:month-:day-:title
+permalink: "/blog/:year/:month/:day/:title"
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
