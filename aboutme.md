@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Random bits and bytes
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tony Guntharp and I make things. Software or Hardware, it doesn’t matter. I’m OCD, a Geek, a Homebrewer. Fan of Open Source, Linux, OSX and Mobile. Purveyor of Craft Beer and Single Malt Scotches. Avid Motorcyclist and Porsche 911 Owner. I Spent 8 years of my life jumping out of airplanes for the US Army doing high speed/low drag shit. Combat Veteran.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I  was one of the Co-Founders of SourceForge.net.
 
-What else do you need?
+I’m a core developer/contributor for the following Open Source Projects:
 
-### my history
+* CLAHub
+* OpenROV
+* Kandan
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I’m an advisor/investor to the following projects:
+
+* Appgyver. Makers of Prototyper and Steroids
+* Flutter Wireless
+
+### Philosophy
+
+I’m a big believer in Open Source. As such you’ll find quite a bit of of my work released under a variety of Open Source licenses over at GitHub.
