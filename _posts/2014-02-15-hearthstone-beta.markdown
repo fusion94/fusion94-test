@@ -10,7 +10,7 @@ Blizzard's latest game, [Hearthstone: Heroes of Warcraft](http://us.battle.net/h
 
 Hearthstone is set within the Warcraft universe, with the majority of its characters and cards drawing from existing lore.
 
-(/img/posts/blog/hearthstone/screenshot1.png)
+![](/images/screenshot1.png){: width="768px"}
 
 ### Matches
 Each Hearthstone battle is a 1vs1 match between two opponents. Gameplay in Hearthstone is turn-based, with players taking turns to play cards from their hand, casting spells, equipping weapons, or summoning 'minions' to do battle on their behalf. Play may be between two human players, or one player and a computer-controlled opponent.
