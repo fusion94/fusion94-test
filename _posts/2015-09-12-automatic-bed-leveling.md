@@ -18,7 +18,7 @@ Select “Manually enter leveling positions” and add the following positions:
 
 When you've added these coordinates you will end up with something that looks a lot like this:
 
-![alt text](/images/posts/Bed_Leveling_Wizard.png "Logo Title Text 1")
+![alt text](/img/posts/Bed_Leveling_Wizard.png "Logo Title Text 1")
 
 Now you can begin leveling the bed. Make sure you have the "Special Sheet for Build Plate Leveling" that came with your FFCP. If you no longer have that  you can use  a 0.10 mm (0.004") feeler gauge (or sheet of letter sized paper).
 
