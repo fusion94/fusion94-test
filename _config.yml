@@ -65,7 +65,7 @@ url-pretty: "fusion94.org"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "fusion94org"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-83223-8"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
