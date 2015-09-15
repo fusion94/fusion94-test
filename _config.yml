@@ -109,3 +109,17 @@ prose:
     - /js
 
 # Beautiful Jekyll / Dean Attali
+post:
+  template: post_template.md
+  extension: md
+page:
+  template:
+  extension:
+editor: atom
+git:
+  branch:
+transfer:
+  command:
+  settings:
+  source:
+  destination:
