@@ -10,7 +10,7 @@ About six weeks ago I decided to pickup a new 3d Printer. After looking at what 
 
  Some of the reasons I chose the FFCP is because it's totally enclosed. This should allow for more efficient and higher quality BS prints. It has a three-point platform leveling system which is pretty intuitive. It has a  heat resistant build platform support made of highly-durable metal. And has a thicker Z-axis rod which provides for steadier  and precise movement.
 
- ### Key features and improvements:
+### Key features and improvements:
 
 * Sturdy metal frame is substantially more stable than the Creator's original wood frame.
 * Warp-resistant 6.3mm aluminum build platform remains perfectly level under the stress of high heat.
@@ -34,6 +34,8 @@ At this point you should have something that looks a lot like this:
 
 ![alt text](/images/ffcp.jpg "FlashForge Creator Pro")
 
-fooooooo
+I'm not going to go into the details for assembeling the top enclosure as it's pretty self-explanatory. Once you've gotten that assembled and in place along with the front door you will have something that looks like this:
 
 ![alt text](/images/ffcp-2.png "FlashForge Creator Pro")
+
+In the next few days I'll be writing additional blog posts related to the FFCP so stay tuned.
