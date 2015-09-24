@@ -508,3 +508,19 @@ header.header-post .post-heading .post-subheading {
 		width: 0;
 	}
 }
+
+table, th, td {
+   border: 1px solid black;
+   padding: 15px;
+}
+
+td {
+    height: 25px;
+    vertical-align: top;
+    padding: 15px;
+}
+
+th {
+  background-color: #CC3300;
+  color: white;
+}
